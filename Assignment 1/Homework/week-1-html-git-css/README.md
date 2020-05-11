@@ -1,3 +1,25 @@
+
+Assignment #1 Code Refactor
+
+In this project I refractor the code of a webpage from Horiseon Social Solution Services.
+
+The first task done was to add a descriptive title to the webpage.
+
+Following I changed a few "classes" to "Id's" to clean the CSS page. 
+
+Also changed a few "class" names to make a more efficient CSS style page. 
+
+Added "comments" after elements to describe what is included in each part of the webpage.
+
+Consolidated more classes to make the code more accessible and easy to read.  
+
+Added "Alt" attributes to all img links. 
+
+
+
+
+
+------------------------------
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
@@ -42,3 +64,5 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
